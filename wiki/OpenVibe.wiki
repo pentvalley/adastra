@@ -2,7 +2,7 @@
 
 = Introduction =
 
-OpenVibe is a open source BCI application developed by Inria. 
+[http://openvibe.inria.fr/ OpenVibe] is a open source BCI application developed by [http://www.inria.fr Inria] French National Institute for Research in Computer Science and Control. 
 
 
 = Details =
