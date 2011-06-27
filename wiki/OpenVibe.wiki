@@ -2,12 +2,9 @@
 
 = Introduction =
 
-OpenVibe is a open source BCI application developed by Inria. It is written in C/C++. Is supports Emotiv if you have Emotiv Research SDK.
+OpenVibe is a open source BCI application developed by Inria. 
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+It is written in C/C++. Is supports Emotiv if you have Emotiv Research SDK.
