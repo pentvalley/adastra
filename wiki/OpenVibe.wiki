@@ -7,4 +7,4 @@
 
 = Details =
 
-It is written in C/C++. Is supports Emotiv if you have Emotiv Research SDK.
+It is written in C/C++. Is supports Emotiv if you have Emotiv Research SDK. It comes with a very nice designer where you can model the flow of your application. 
