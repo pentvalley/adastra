@@ -7,4 +7,6 @@
 
 = Details =
 
-It is written in C/C++. Is supports Emotiv if you have Emotiv Research SDK. It comes with a very nice designer where you can model the flow of your application. 
+It is written in C/C++. It comes with a very nice designer where you can model the flow of your EEG application. 
+
+Is supports [http://www.emotiv.com/ Emotiv EPOCH], but you will still need Emotiv's Research SDK.
