@@ -5,6 +5,7 @@
 These are instructions on how to use Adastra. Everything should be straight-forward. No special skills are required.
 
 = Details =
+  * MS .NET framework 4.0 client profile is required. Running under [http://www.mono-project.com Mono] is currently unsupported
   * download and unzip Adastra in any folder
   * currently only Windows OS is supported 
   * install OpenVibe 10.1 or later (usually c:\Program Files\openvibe) 
