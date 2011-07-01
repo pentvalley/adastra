@@ -2,7 +2,7 @@
 
 = Introduction =
 
-These are instructions on how to use Adastra. Everything should straihght-forward. No special skills are required.
+These are instructions on how to use Adastra. Everything should be straight-forward. No special skills are required.
 
 = Details =
   * download and unzip Adastra in any folder
