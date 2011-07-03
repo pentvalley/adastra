@@ -12,4 +12,4 @@ These are instructions on how to use Adastra. Everything should be straight-forw
   * start Adastra and set OpenVibe's install folder in the main form (if not set automatically)
 
 = Additional notes =
-OpenVibe is started by Adastra, you do not need to execute it in advance.
+OpenVibe is started by Adastra, you do not need to execute it in advance. Adastra modifies one of the OpenVibe's bat files in order to resolve a bug with parameters forwarding.
