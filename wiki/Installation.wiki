@@ -13,3 +13,5 @@ These are instructions on how to use Adastra. Everything should be straight-forw
 
 = Additional notes =
 OpenVibe is started by Adastra, you do not need to execute it in advance. Adastra modifies one of the OpenVibe's bat files in order to resolve a bug with parameters forwarding.
+
+If you experience any problems with missing VrpnNet.dll then you may need to install "Microsoft Visual C++ 2010 Redistributable Package" for x86 or 64 bit Windows. Assembly VrpnNet.dll contains unmanaged code.
