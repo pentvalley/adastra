@@ -7,4 +7,4 @@
 
 It is written in C/C++. It comes with a very nice designer where you can model the flow of your EEG application. 
 
-Is supports [http://www.emotiv.com/ Emotiv EPOCH], but you will still need Emotiv's Research SDK.
+OpenVibe supports [http://www.emotiv.com/ Emotiv EPOCH], but you will still need Emotiv's Research SDK.
