@@ -3,9 +3,15 @@
 Adastra can be compiled with the free [http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express Visual C# 2010 Express] edition of Visual Studio.
 
 
-= Details =
+= Libraries =
 
 The following software libraries are used in Adastra:
 
   * AForge.NET (develped by Andrew Kirillov)
   * Accord.NET (developed by César Roberto de Souza)
+
+  * Vrpn.NET (develped by Chris VanderKnyff) contains unmanaged code
+
+= Additional Notes =
+
+.NET class OpenVibeController contains calls to several Windows API unmanaged functions.
