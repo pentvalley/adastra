@@ -11,6 +11,8 @@ The following software libraries are used in Adastra:
 
   * Vrpn.NET (develped by Chris VanderKnyff) contains unmanaged code
 
+All libraries are provided with Adastra's downloads.
+
 = Additional Notes =
 
 .NET class OpenVibeController contains calls to several Windows API unmanaged functions.
