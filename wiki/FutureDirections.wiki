@@ -1,4 +1,4 @@
-===Short-tem plans===
+===Short-term plans===
 
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
