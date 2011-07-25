@@ -6,4 +6,4 @@
 
 ===Long-term plans===
 
-  * classification of a whole EEG record of length 3-15 minutes. This will be dine against famous neuro-degenerative diseases. 
+  * classification of a whole EEG record of length 3-15 minutes. This will be used to discover famous neuro-degenerative diseases. 
