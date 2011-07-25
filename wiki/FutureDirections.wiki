@@ -1,12 +1,9 @@
-#summary One-sentence summary of this page.
-
-= Summary =
-
-Add your content here.
-
-===Future plans:===
+===Short-tem plans===
 
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
+
+
+===Long-term plans===
 
   * classification of a whole EEG record of length 3-15 minutes. This will be dine against famous neuro-degenerative diseases. 
