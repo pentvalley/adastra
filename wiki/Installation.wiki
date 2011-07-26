@@ -5,11 +5,10 @@
 These are instructions on how to use Adastra. Everything should be straight-forward. No special skills are required. 
 
 = Details =
-  * MS .NET framework 4.0 client profile is required. Running under [http://www.mono-project.com Mono] is currently unsupported
+  * [http://www.microsoft.com/net/download.aspx MS .NET framework 4.0] is required. Running under [http://www.mono-project.com Mono] is currently unsupported
   * download and unzip Adastra in any folder
-  * currently only Windows OS is supported 
   * install OpenVibe 10.1 or later (usually in c:\Program Files\openvibe) 
   * start Adastra (Adastra.exe) and set OpenVibe's install folder in the main form (if not set automatically)
 
 = Additional notes =
-OpenVibe is started by Adastra, you do not need to execute it in advance. Adastra modifies one of the OpenVibe's bat files in order to resolve a bug with parameters forwarding in OpenVibe 10.1.
+OpenVibe is started by Adastra, you do not need to start it in advance. Adastra modifies one of the OpenVibe's bat files in order to resolve a bug with parameters forwarding in OpenVibe 10.1. Currently Adastra runs only on Windows.  
