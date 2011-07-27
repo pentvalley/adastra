@@ -1,4 +1,4 @@
-#Steps to install and start Adastra
+#Steps to install and start Adastra.
 
 = Introduction =
 
