@@ -15,4 +15,4 @@ All libraries are provided with Adastra's downloads.
 
 = Additional Notes =
 
-.NET class OpenVibeController contains calls to several Windows API unmanaged functions. Running under Linux might be possible. See [Mono porting]
+.NET class OpenVibeController contains calls to several Windows API unmanaged functions. Running under Linux might be possible. See [Mono Porting Mono proting]
