@@ -11,4 +11,4 @@ These are instructions on how to use Adastra. Everything should be straight-forw
   * start Adastra (Adastra.exe) and set OpenVibe's install folder in the main form (if not set automatically)
 
 = Additional notes =
-OpenVibe is started by Adastra, you do not need to start it in advance. Adastra modifies one of the OpenVibe's bat files in order to resolve a bug with parameters forwarding in OpenVibe 10.1. Currently Adastra runs only on Windows. Running Adastra under [http://www.mono-project.com Mono] is currently unsupported, but not impossible. 
+OpenVibe is started by Adastra, you do not need to start it in advance. Adastra modifies one of the OpenVibe's bat files in order to resolve a bug with parameters forwarding in OpenVibe 10.1. Currently Adastra runs only on Windows. Running Adastra under [http://www.mono-project.com Mono] is currently unsupported, but not impossible. See [MonoPorting Mono porting] page. 
