@@ -1,0 +1,6 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+  * Signal charting should be disabled or replaced with another control
+  * OpenVibeController should be ported
