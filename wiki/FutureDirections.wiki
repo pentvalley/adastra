@@ -1,5 +1,6 @@
 ===Short-term plans===
-  * add the ability to save signal data only or signal data + model
+  * add support for WPF signal charting
+  * add parallel computing of the ML model
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
   * use Encog Artificial Intelligence Framework for DotNet
