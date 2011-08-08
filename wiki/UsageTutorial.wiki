@@ -1,14 +1,14 @@
-#summary One-sentence summary of this page.
+*This page is under construction!*
 
 = Introduction =
 
-Add your content here.
-
-Test
+This page explains how to conduct a scientific experiment and points out what are the different configurations you need to perform in order to achieve your goal. 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+We can separate configuration between OpenVibe and Adastra with OpenVibe being more important to configure properly. 
+
+  * List item 1
+
+
+
