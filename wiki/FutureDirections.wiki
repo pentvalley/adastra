@@ -1,5 +1,5 @@
 ===Short-term plans===
-  * add support for Emotiv EPOCH without using OpenVibe
+  * add support for Emotiv EPOCH without using OpenVibe (in progress)
   * add support for WPF signal charting
   * add parallel computing of the ML model
   * implement additional machine learning algorithms
