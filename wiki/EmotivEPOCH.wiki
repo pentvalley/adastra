@@ -2,12 +2,6 @@
 
 = Introduction =
 
-test
+Emotiv EPOCH is a relatively cheap EEG device that comes with Software Development KIT in several programming languages. 
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Please, note that in order to be able to use the raw EEG signal from Emotiv, you need to buy the Emotiv Research SDK. This is the edition required by Adastra.
