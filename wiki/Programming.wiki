@@ -6,12 +6,14 @@ Adastra is developed in C#. Adastra can be compiled with the free [http://www.mi
 
 The following software libraries are used in Adastra:
 
-  * AForge.NET (develped by Andrew Kirillov)
-  * Accord.NET (developed by César Roberto de Souza)
+  * AForge.NET
+  * Accord.NET
 
-  * Vrpn.NET (develped by Chris VanderKnyff) contains unmanaged code
+  * Vrpn.NET contains unmanaged code
 
 All libraries are provided with Adastra's downloads.
+
+Check this page if you are using [EmotivEPOCH Emotiv EPOCH].
 
 = Additional Notes =
 
