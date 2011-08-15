@@ -6,6 +6,6 @@ Emotiv EPOCH is a relatively cheap EEG device that comes with Software Developme
 
 Please, note that in order to be able to use the raw EEG signal from Emotiv, you need to buy the Emotiv Research SDK. This is the edition required by Adastra.
 
-  * enable Emotiv in OpenVibe
+  * enable Emotiv in OpenVibe by following this [http://openvibe.inria.fr/documentation/0.8.0/Doc_FAQ.html#Doc_FAQ_Emotiv link]
 
   * enable Emtoiv native support by putting edk.dll and edk_utils.dll in Adastra's bin folder.
