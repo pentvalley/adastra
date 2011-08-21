@@ -15,6 +15,12 @@ All libraries are provided with Adastra's downloads.
 
 Check this page if you are using [EmotivEPOCH Emotiv EPOCH].
 
+= Extending Adastra =
+
+  * Implement IRawDataReader - acquires raw data. For example the EmotivRawDataReader is used as a link between Adastra and Emotiv driver.
+
+  * IFeatureGenerator - this class supplies feature vectors used by machine learning algorithms. One FeatureGenerator is responsible for all previous steps such as: acquiring signal, time slicing, signal filtering and calculation of the feature vectors themselves. For example the OpenVibeFeatureGenerator does all this job by connecting to OpenVibe.   
+
 = Additional Notes =
 
 .NET class OpenVibeController contains calls to several Windows API unmanaged functions. Running under Linux might be possible. See [MonoPorting Mono porting]
