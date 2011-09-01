@@ -5,6 +5,7 @@
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
   * use Encog Artificial Intelligence Framework for DotNet
+  * evaluate [http://machine.codeplex.com Machine Learning for .NET]
 
 ===Long-term plans===
 
