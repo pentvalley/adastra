@@ -1,6 +1,6 @@
 ===Short-term plans===
-  * add support for [EmotivEPOCH Emotiv EPOCH] without using OpenVibe
-  * add support for WPF signal charting
+  * add support for [EmotivEPOCH Emotiv EPOCH] without using OpenVibe (in progress)
+  * add support for WPF signal charting (in progress)
   * add parallel computing of the ML model
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
