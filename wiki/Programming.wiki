@@ -8,7 +8,6 @@ The following software libraries are used in Adastra:
 
   * AForge.NET
   * Accord.NET
-
   * Vrpn.NET contains unmanaged code
 
 All libraries are provided with Adastra's downloads.
@@ -19,7 +18,7 @@ Check this page if you are using [EmotivEPOCH Emotiv EPOCH].
 
   * Implement IRawDataReader - acquires raw data. For example the EmotivRawDataReader is used as a link between Adastra and Emotiv driver.
 
-  * IFeatureGenerator - this class supplies feature vectors used by machine learning algorithms. One FeatureGenerator is responsible for all previous steps such as: acquiring signal, time slicing, signal filtering and calculation of the feature vectors themselves. For example the OpenVibeFeatureGenerator does all this job by connecting to OpenVibe.   
+  * IFeatureGenerator - classes that inherit this interface provide feature vectors used by machine learning algorithms. One FeatureGenerator is responsible for all previous steps such as: acquiring signal, time slicing, signal filtering and calculation of the feature vectors themselves. For example the OpenVibeFeatureGenerator does all this job by connecting to OpenVibe.   
 
 = Additional Notes =
 
