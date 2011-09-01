@@ -4,3 +4,4 @@
   * VRPN.net contains unmanaged code and it will be hard to port
   * Signal charting should be disabled or replaced with another control
   * OpenVibeController should be ported
+  * WPF is unsupported by Mono
