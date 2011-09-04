@@ -5,6 +5,7 @@
 These are instructions on how to use Adastra. Everything should be straight-forward. No special skills are required. 
 
 = Details =
+  * Microsoft Windows 7/Vista/XP (Windows 7 recommended)
   * [http://www.microsoft.com/net/download.aspx MS .NET framework 4.0] is required
   * download and unzip Adastra in any folder
   * install OpenVibe 10.1 or later (usually in c:\Program Files\openvibe)
