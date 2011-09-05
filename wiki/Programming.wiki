@@ -8,7 +8,7 @@ The following software libraries are used in Adastra:
 
   * AForge.NET
   * Accord.NET
-  * Vrpn.NET contains unmanaged code
+  * Vrpn.NET (contains unmanaged code)
   * [http://www.phon.ucl.ac.uk/home/mark/basicdsp/ BasicDSP] 
 
 All libraries are provided with Adastra's downloads.
