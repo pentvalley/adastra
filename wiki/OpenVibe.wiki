@@ -12,4 +12,4 @@ This is [http://openvibe.inria.fr/?q=download OpenVibe download page].
 
 = Additional notes =
 
-OpenVibe supports [EmotivEPOCH Emotiv EPOCH], but you will still need Emotiv's Research SDK. OpenVibe runs on Linux too, although there is no official installer.
+OpenVibe supports [EmotivEPOCH Emotiv EPOC], but you will still need Emotiv's Research SDK. OpenVibe runs on Linux too, although there is no official installer.
