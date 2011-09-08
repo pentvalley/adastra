@@ -13,7 +13,7 @@ The following software libraries are used in Adastra:
 
 All libraries are provided with Adastra's downloads.
 
-Check this page if you are using [EmotivEPOCH Emotiv EPOCH].
+Check this page if you are using [EmotivEPOCH Emotiv EPOC].
 
 = Extending Adastra =
 
