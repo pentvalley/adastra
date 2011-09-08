@@ -9,7 +9,7 @@ These are instructions on how to use Adastra. Everything should be straight-forw
   * [http://www.microsoft.com/net/download.aspx MS .NET framework 4.0] is required
   * download and unzip Adastra in any folder
   * install OpenVibe 0.11 or later (usually in c:\Program Files\openvibe)
-  * check [EmotivEPOCH Emotiv EPOCH] if you are using this device 
+  * check [EmotivEPOCH Emotiv EPOC] if you are using this device 
   * start Adastra (Adastra.exe) and set OpenVibe's install folder in the main form (if not set automatically)
 
 = Additional notes =
