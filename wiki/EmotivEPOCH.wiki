@@ -6,7 +6,7 @@ Emotiv EPOC is a relatively cheap EEG device that comes with Software Developmen
 
 Please, note that in order to be able to use the raw EEG signal from Emotiv, you need to buy Emotiv Research SDK. This is the edition required by Adastra. Developer edition is not enough.
 
-The two options are presented here:
+Two options are available:
 
   * enable Emotiv in OpenVibe by following this [http://openvibe.inria.fr/documentation/0.8.0/Doc_FAQ.html#Doc_FAQ_Emotiv link]
 
