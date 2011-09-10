@@ -4,7 +4,7 @@ Adastra can use [http://www.mono-project.com/GtkSharp GTK Sharp] for UI.
 
 When porting to [http://www.mono-project.com/Main_Page Mono] the following components will need special care:
 
-  * VRPN.net contains unmanaged code and it will need rewriting in pure managed code
+  * VRPN.net contains unmanaged code
   * Windows Forms signal charting should be disabled or replaced with another control
   * OpenVibeController should be ported (should not be a problem)
   * WPF is unsupported by Mono
