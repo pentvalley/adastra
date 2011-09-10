@@ -6,10 +6,11 @@ Adastra is developed in C# and the UI is multi-threaded. Adastra can be compiled
 
 The following software libraries are used in Adastra:
 
-  * AForge.NET
-  * Accord.NET
-  * Vrpn.NET (contains unmanaged code)
+  * [http://www.aforgenet.com/framework AForge.NET]
+  * [http://accord-net.origo.ethz.ch Accord.NET]
+  * [http://wwwx.cs.unc.edu/~chrisv/vrpnnet Vrpn.NET] (contains unmanaged code)
   * [http://www.phon.ucl.ac.uk/home/mark/basicdsp/ BasicDSP] 
+  * [http://dynamicdatadisplay.codeplex.com Dynamic Data Display]
 
 All libraries are provided with Adastra's downloads.
 
