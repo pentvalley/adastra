@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Emotiv EPOC is a relatively cheap EEG device that comes with Software Development KIT in several programming languages. Adastra utilize it through a C# wrapper provided by Emotiv. 
+[http://emotiv.com Emotiv EPOC] is a relatively cheap EEG device that comes with Software Development KIT in several programming languages. Adastra utilize it through a C# wrapper provided by Emotiv. 
 
 Please, note that in order to be able to use the raw EEG signal from Emotiv, you need to buy Emotiv Research SDK. This is the edition required by Adastra. Developer edition is not enough.
 
