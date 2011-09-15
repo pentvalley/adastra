@@ -11,3 +11,5 @@ Two options are available:
   * enable Emotiv in OpenVibe by following this [http://openvibe.inria.fr/documentation/0.8.0/Doc_FAQ.html#Doc_FAQ_Emotiv link]
 
   * enable Emtoiv native support in Adastra by putting edk.dll and edk_utils.dll in Adastra's bin folder (usually where Adastra.exe is extracted). Both dlls should be in "\Program Files\Emotiv Research Edition SDK_v1.0.0.4-PREMIUM" depending on your installation.
+
+Adastra supports [http://en.wikipedia.org/wiki/Windows_Presentation_Foundation WPF] signal charting for Emotiv EPOC..
