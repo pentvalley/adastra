@@ -2,4 +2,5 @@
 
 = List of relevant applications: =
 
-* [https://sites.google.com/site/romaingrandchamp/cerveaurium/downloads Brainarium]
+* [http://sites.google.com/site/marcocongedo/software/icon ICoN
+Independent Component Neurofeedback]
