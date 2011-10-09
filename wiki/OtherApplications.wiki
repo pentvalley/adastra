@@ -3,3 +3,5 @@
 = List of relevant applications: =
 
 * [http://sites.google.com/site/marcocongedo/software/icon ICoN] Independent Component Neurofeedback
+
+* [http://svarog.pl/ Svarog] Signal dispay
