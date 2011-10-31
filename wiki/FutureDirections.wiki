@@ -4,7 +4,7 @@
   * add parallel computing for machine learning algorithms thanks to Microsoft Task Parallel Library or Microsoft [http://research.microsoft.com/en-us/projects/accelerator Accelerator]
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
-  * use [http://www.heatonresearch.com/encog Encog Artificial Intelligence Framework] for DotNet (specifically RBF networks)
+  * use [http://www.heatonresearch.com/encog Encog Artificial Intelligence Framework] for DotNet and specifically RBF network - (completed) 
   * evaluate [http://machine.codeplex.com Machine Learning for .NET]
   * explore the idea of having calculations of the machine learning models (NN, SVM) distributed over the Microsoft Azure cloud.
 
