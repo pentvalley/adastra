@@ -7,4 +7,4 @@ When porting to [http://www.mono-project.com/Main_Page Mono] the following compo
   * VRPN.net contains unmanaged code
   * OpenVibeController should be ported (should not be a problem)
   * Windows Forms signal charting should be disabled or replaced with another control
-  * WPF signal charting is unsupported by Mono
+  * WPF is used by Adastra, so these parts will need to be totally rewritten
