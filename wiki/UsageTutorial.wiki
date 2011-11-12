@@ -7,23 +7,23 @@ This page explains how to conduct a scientific experiment and points out what ar
 Our scenario will be to acquire data from an EEG signal, train using machine learning and evaluate our computed model. "Model" is the result from the training process produced by a certain machine learning algorithm (also called "method"). Scenario is based on Adastra 2.4.
 
 These are the quick steps for the above scenario:
-  * Start Adastra
-  * Choose OpenVibe as data source from the three options (OpenVibe, Emotiv, Optimizator)
-  * Select "Train" from the top dropdown menu
-  * if you are going to use real-time signal then you will need to start OpenVibe acquisition server manually and check "Real-time" in Adastra
-  * Click Start
-  * Two things happen in parallel:
-    * an instance of OpenVibe is programatically started (console window that contains OpenVibe startup output)
-    * a new "Train" form appears that is explained in the next steps
-  * Next you need to record data for specific actions (at least 2). Predefined actions include Left,Right,Up (mouse cursor movement). Recorded data is not the EEG signal, but in the form of feature vectors. These feature vectors are the format required by the machine learning methods
-  * next you should save what you have just recorded by clicking the "Managed Recordings" button
-  * next you can start computing a model or (if you saved your source data) exit this form and proceed to the next step (recommended)
-  * when in Adastra main form choose "Optimizator" in the left bottom corner of the main form
-  * click Start
-  * a new form appears, select "Load EEG record", this way you will load the previously recorded data (Left, Right, Up..).
-  * next select a method to train and evaluate
-  * click Start
-  * wait patiently until all methods are trained (models are build)
-  * final result will appear as each method will display an error value and time elapsed
-  * less error means better method, choose "Save Best Model" to save the method with least error
-  * you can also evaluate your method in real-time later 
+  # Start Adastra
+  # Choose OpenVibe as data source from the three options (OpenVibe, Emotiv, Optimizator)
+  # Select "Train" from the top dropdown menu
+  # if you are going to use real-time signal then you will need to start OpenVibe acquisition server manually and check "Real-time" in Adastra
+  # Click Start
+  # Two things happen in parallel:
+    # an instance of OpenVibe is programatically started (console window that contains OpenVibe startup output)
+    # a new "Train" form appears that is explained in the next steps
+  # Next you need to record data for specific actions (at least 2). Predefined actions include Left,Right,Up (mouse cursor movement). Recorded data is not the EEG signal, but in the form of feature vectors. These feature vectors are the format required by the machine learning methods
+  # next you should save what you have just recorded by clicking the "Managed Recordings" button
+  # next you can start computing a model or (if you saved your source data) exit this form and proceed to the next step (recommended)
+  # when in Adastra main form choose "Optimizator" in the left bottom corner of the main form
+  # click Start
+  # a new form appears, select "Load EEG record", this way you will load the previously recorded data (Left, Right, Up..).
+  # next select a method to train and evaluate
+  # click Start
+  # wait patiently until all methods are trained (models are build)
+  # final result will appear as each method will display an error value and time elapsed
+  # less error means better method, choose "Save Best Model" to save the method with least error
+  # you can also evaluate your method in real-time later 
