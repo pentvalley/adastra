@@ -21,7 +21,7 @@ These are the quick steps for the above sceraio
   * next you can start computing a model or (if you saved your source data) exit this form and proceed to the next step (recommended)
   * when in Adastra main form choose "Optimizator" in the left bottom corner of the main form
   * click Start
-  * a new form appears, select "Load EEG record", this way you will load the previously recorded data (LEft, Right, Up..).
+  * a new form appears, select "Load EEG record", this way you will load the previously recorded data (Left, Right, Up..).
   * next select a method to train and evaluate
   * click Start
   * wait patiently until all methods are trained (models are build)
