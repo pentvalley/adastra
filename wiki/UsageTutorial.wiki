@@ -10,7 +10,7 @@ These are the quick steps for the above scenario:
   * Start Adastra
   * Choose OpenVibe as data source from the three options (OpenVibe, Emotiv, Optimizator)
   * Select "Train" from the top dropdown menu
-  * if you going to use real-time signal you will need to start OpenVibe acquisition server manually and check "Real-time" in Adastra
+  * if you are going to use real-time signal you will need to start OpenVibe acquisition server manually and check "Real-time" in Adastra
   * Click Start
   * Two things happen in parallel:
     * an instance of OpenVibe is programatically started
