@@ -15,7 +15,7 @@ These are the quick steps for the above scenario:
   * Two things happen in parallel:
     * an instance of OpenVibe is programatically started (console window that contains OpenVibe startup output)
     * a new "Train" form appears that is explained in the next steps
-  * Next you need to record data for a specific actions. Predefined actions include Left,Right,Up (mouse cursor movement). Recorded data is not the EEG signal, but in the form of feature vectors. These feature vectors are the format required by the machine learning methods
+  * Next you need to record data for specific actions (at least 2). Predefined actions include Left,Right,Up (mouse cursor movement). Recorded data is not the EEG signal, but in the form of feature vectors. These feature vectors are the format required by the machine learning methods
   * next you should save what you have just recorded by clicking the "Managed Recordings" button
   * next you can start computing a model or (if you saved your source data) exit this form and proceed to the next step (recommended)
   * when in Adastra main form choose "Optimizator" in the left bottom corner of the main form
