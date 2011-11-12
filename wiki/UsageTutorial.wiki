@@ -8,13 +8,13 @@ This page explains how to conduct a scientific experiment and points out what ar
 
 Our scenario will be to acquire data from an EEG signal, train using machine learning and evaluate our computed model. "Model" is the result from the training process produced by a certain machine learning algorithm (also called "method"). 
 
-These are the quick steps for the above sceraio
+These are the quick steps for the above scenario:
   * Start Adastra
   * Choose OpenVibe as data source
   * Select "Train" from the top dropdown menu
   * Click Start
-  * Two things happen:
-    * OpenVibe is programatically started
+  * Two things happen in parallel:
+    * an instance of OpenVibe is programatically started
     * a new "Train" form appears that is explained in the next steps
   * Next you need to record data for a specific actions. Predefined actions include Left,Right,Up (mouse cursor movement). Recorded data is not the EEG signal, but in the form of feature vectors. These feature vectors are the format required by the machine learning methods
   * next you should save what you have just recorded by clicking the "Managed Recordings" button
