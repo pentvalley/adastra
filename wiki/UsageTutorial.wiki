@@ -4,7 +4,7 @@ This page explains how to conduct a scientific experiment and points out what ar
 
 = Details =
 
-Our scenario will be to acquire data from an EEG signal, train using machine learning and evaluate our computed model. "Model" is the result from the training process produced by a certain machine learning algorithm (also called "method"). 
+Our scenario will be to acquire data from an EEG signal, train using machine learning and evaluate our computed model. "Model" is the result from the training process produced by a certain machine learning algorithm (also called "method"). Scenario is based on Adastra 2.4.
 
 These are the quick steps for the above scenario:
   * Start Adastra
