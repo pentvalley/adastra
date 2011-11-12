@@ -25,6 +25,6 @@ These are the quick steps for the above sceraio
   * next select a method to train and evaluate
   * click Start
   * wait patiently until all methods are trained (models are build)
-  * final result will appear as each method has an error value and time
+  * final result will appear as each method will display an error value and time elapsed
   * less error means better method, choose "Save Best Model" to save the method with least error
   * you can also evaluate your method in real-time later 
