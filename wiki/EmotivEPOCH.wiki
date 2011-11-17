@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-= How to configure=
+= How to configure Emotiv EPOC=
 
 [http://emotiv.com Emotiv EPOC] is a relatively cheap EEG device that comes with Software Development KIT in several programming languages. Adastra utilize it through a C# wrapper provided by Emotiv. 
 
