@@ -1,6 +1,6 @@
 ===Short-term plans===
   * add support for [EmotivEPOCH Emotiv EPOC] without using OpenVibe (in progress)
-  * add support for WPF signal charting (in progress)
+  * add support for WPF signal charting (completed)
   * add parallel computing for machine learning algorithms thanks to Microsoft Task Parallel Library or Microsoft [http://research.microsoft.com/en-us/projects/accelerator Accelerator]
   * implement additional machine learning algorithms
   * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
