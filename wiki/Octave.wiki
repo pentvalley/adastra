@@ -13,3 +13,6 @@ Using Octave in Adastra has the following advantages:
 
 = Windows download=
 [http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW/ http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW]
+
+= Tips=
+It is recommended that you set your Octave install dir in: Adastra.exe.config
