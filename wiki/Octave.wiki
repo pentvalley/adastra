@@ -1,0 +1,12 @@
+= Introduction =
+
+Octave is a free clone of Matlab. Adastra has an Octave C# .NET wrapper that can executes any Octave/Matlab script and returns the result to C# for further processing. 
+
+
+= Details =
+
+Using Octave in Adastra has the following advantages:
+ 
+ * reuse existing Matlab/Octave code 
+ * Octave/Matlab provide sophisticated math functions that might not be available in Math libraries implemented for .NET
+ * cross OS software development. Adastra runs only on Windows, but Octave runs almost on any Windows, Unix OS.  
