@@ -1,6 +1,6 @@
 = Introduction =
 
-Octave is a free clone of Matlab. Adastra has an Octave C# .NET wrapper that can executes any Octave/Matlab script and returns the result to C# for further processing. Currently Octave is used for training [http://en.wikipedia.org/wiki/Logistic_regression Logistic Regression] machine learning algorithm. 
+Octave is a free clone of Matlab. Adastra has an Octave C# .NET wrapper that can execute any Octave/Matlab script and returns the result to C# for further processing. Currently Octave is used for training [http://en.wikipedia.org/wiki/Logistic_regression Logistic Regression] machine learning algorithm. 
 
 
 = Details =
