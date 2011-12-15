@@ -10,3 +10,6 @@ Using Octave in Adastra has the following advantages:
  * reuse existing Matlab/Octave code 
  * Octave/Matlab provide sophisticated math functions that might not be available in Math libraries implemented for .NET
  * cross OS software development. Adastra runs only on Windows, but Octave runs almost on any Windows, Unix OS.  
+
+= Windows download=
+[http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW/ http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW]
