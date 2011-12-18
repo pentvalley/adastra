@@ -1,6 +1,6 @@
 = Introduction =
 
-Octave is a free clone of Matlab. Adastra has an Octave C# .NET wrapper that can execute any Octave/Matlab script and returns the result to C# for further processing. Currently Octave is used for training [http://en.wikipedia.org/wiki/Logistic_regression Logistic Regression] machine learning algorithm. Currently Adastra is tested with Octave 3.2.4, but it should work without problem with newest one 3.4.3.
+Octave is a free clone of Matlab. Adastra has an Octave C# .NET wrapper that can execute any Octave/Matlab script and returns the result to C# for further processing. Currently Octave is used for training [http://en.wikipedia.org/wiki/Logistic_regression Logistic Regression] machine learning algorithm. 
 
 
 = Details =
@@ -13,6 +13,7 @@ Using Octave in Adastra has the following advantages:
 
 In Adastra Octave can be applied mainly for the implementation of Machine Learning Algorithms and Digital Signal Processing (DSP).
 
+Currently Adastra is tested with Octave 3.2.4, but it should work without problem with newest one 3.4.3.
 Scripts in Adastra are located at: \scripts\octave directory.  
 
 = Windows download=
