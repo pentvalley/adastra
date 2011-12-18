@@ -4,7 +4,8 @@
 
 = Details =
 
-It is written in C/C++. It comes with a very nice designer where you can model the flow of your EEG application. 
+It is written in C/C++. It comes with a very nice designer where you can model the flow of your EEG application.
+OpenVibe's scenarios used in Adastra are located in \scenarios folder.
 
 = Download =
 
