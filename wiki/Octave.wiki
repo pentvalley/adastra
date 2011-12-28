@@ -17,7 +17,7 @@ Currently Adastra is tested with Octave 3.2.4, but it should work without proble
 Scripts in Adastra are located at: \scripts\octave directory.  
 
 = Windows download=
-[http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW/ http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW]
+[http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW/ http://sourceforge.net/projects/octave/files/Octave_Windows%20-%20MinGW].
 
 = Tips=
-It is recommended that you set your Octave install dir in: Adastra.exe.config
+It is necessary that you set your Octave's install folder in: Adastra.exe.config. You need to put the folder where Octave's bin folder is contained. For version 3.4.3 this is: 'C:\Octave\Octave3.4.3_gcc4.5.2\Octave3.4.3_gcc4.5.2' if you have used the default install location.
