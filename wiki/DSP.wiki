@@ -2,7 +2,7 @@
 
 = Introduction =
 
-There are three ways to add or modify digital signals in Adastra.
+There are three ways to add or modify signals in Adastra.
 
   * [OpenVibe] is being used for digital signal processing. This BCI application contains several filters implemented in the form of "boxes".
   * Adastra comes with some .NET libs that provide dsp.
@@ -11,4 +11,3 @@ There are three ways to add or modify digital signals in Adastra.
 = Details =
 
 Todo.
-
