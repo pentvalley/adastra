@@ -1,0 +1,14 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+There are three ways to add or modify digital signals in Adastra.
+
+  * [OpenVibe] is being used for digital signal processing. This BCI application contains several filters implemented in the form of "boxes".
+  * Adastra comes with some .NET libs that provide dsp.
+  * Adastra can execute and use the result from [Octave](Matlab clone). This means that you can implement digital filters in Octave or use already available. You only need to provide your input and parse your output.   
+
+= Details =
+
+Todo.
+
