@@ -7,6 +7,11 @@ A "box" in OpenVibe scenario is a single element in workflow which is actually c
 
   * You can select which channels to be used from the "Channel Selector"
   * You can use a Surface Laplacian to focus the signal around specific channels. The idea is not to discard the data from the rest of the channels, but rather give more weight to these specific channels than the others.
+  * Several simple digital filters are used that you may want to enable/disable or modify.
 
 = Configure Machine Learning =
-  * todo
+There are several machine learning models and learning methods.
+
+  * Logistic regression usually use two main learning algorithms. First one is *gradienet descent* and the second one is normal equation.
+
+  * There are currently two two types of neural networks supported. First one is a standard multi-layer perceptron. MLP has an automatic number of hidden rows assignment ...   
