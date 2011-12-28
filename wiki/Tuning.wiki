@@ -6,7 +6,7 @@ When doing Digital Signal Processing and Machine Learning you can choose a opera
 A "box" in OpenVibe scenario is a single element in workflow which is actually called a "scenario". You can open an OpenVibe scenario in Adastra and tune each one of the following boxes:  
 
   * You can select which channels to be used from the "Channel Selector"
-  * You can use a Surface Laplacian to focus the signal around specific channels. Laplacian derivation is often used as a spatial filter to enhance scalp potential data.
+  * You can use a Surface Laplacian to focus the signal around specific channels. Laplacian derivation is often used as a spatial filter to enhance scalp potential data. It is used to improve the signal-to-noise ratio and to enhance 'striate cortical activity' selectively.
 
   * Several simple digital filters are used that you may want to enable/disable or modify.
 
