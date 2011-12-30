@@ -2,11 +2,10 @@
 
 = Introduction =
 
-LDA+MLP: Linear Discriminant Analysis + Multi - Layer Perceptron
-LDA+SVM: Linear Discriminant Analysis + Support Vector Machines
-LDA+RBF: Linear Discriminant Analysis + Radial Basis Function
-LR: Multiclass class Logistic Regression
-
+  * LDA+MLP: Linear Discriminant Analysis + Multi - Layer Perceptron
+  * LDA+SVM: Linear Discriminant Analysis + Support Vector Machines
+  * LDA+RBF: Linear Discriminant Analysis + Radial Basis Function
+  * LR: Multiclass class Logistic Regression
 
 = Details =
 
