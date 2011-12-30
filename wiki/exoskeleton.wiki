@@ -1,0 +1,3 @@
+#summary One-sentence summary of this page.
+
+A brain controlled suit is not entirely science fiction. The [http://en.wikipedia.org/wiki/Motor_cortex motor cortex] is involved in the planning, control, and execution of voluntary motor functions. EEG can detect this faint signals from the brain and theoretically every single motor command can be distinguished from the general cortex activity by learning each signal distinctive pattern. 
