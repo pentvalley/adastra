@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+LDA+MLP: Linear Discriminant Analysis + Multi - Layer Perceptron
+LDA+SVM: Linear Discriminant Analysis + Support Vector Machines
+LDA+RBF: Linear Discriminant Analysis + Radial Basis Function
+LR: Multiclass class Logistic Regression
+
+
+= Details =
+
+TODO.
