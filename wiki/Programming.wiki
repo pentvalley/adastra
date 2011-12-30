@@ -1,8 +1,10 @@
 = Introduction =
 
-Adastra is developed in C# and the UI is multi-threaded. Adastra can be compiled with the free [http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express Visual C# 2010 Express] edition of Visual Studio. One of the primary goals of this project is to be easy to develop. Simply installing VS 2010 should be enough to compile and run it. Target .NET Frameworks is 4.0.
+Adastra is developed mainly in C# and the UI is multi-threaded. Adastra can be compiled with the free [http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express Visual C# 2010 Express] edition of Visual Studio. One of the primary goals of this project is to be easy to develop. Simply installing VS 2010 should be enough to compile and run it. Target .NET Frameworks is 4.0. 
 
-= Libraries =
+Adastra can also use an existing [Octave](Matlab clone) instance. At least one algorithm is currently implemented in [Octave]. 
+
+= Software Libraries =
 
 The following software libraries are used in Adastra:
 
@@ -12,11 +14,13 @@ The following software libraries are used in Adastra:
   * [http://www.phon.ucl.ac.uk/home/mark/basicdsp/ BasicDSP] 
   * [http://dynamicdatadisplay.codeplex.com Dynamic Data Display]
 
-All libraries are provided with Adastra's downloads.
+All fore-mentioned libraries are provided with Adastra's downloads.
+
+  * [Octave] can also be considered as a one big software library as it implements a wide list mathematical algorithms. [Octave] and also [OpenVibe] are additional dependencies that are installed separately from Adastra.
 
 Check this page if you are using [EmotivEPOCH Emotiv EPOC].
 
-= Extending Adastra =
+= C# Interfaces =
 
   * Implement IRawDataReader - acquires raw data. For example the EmotivRawDataReader is used as a link between Adastra and Emotiv driver.
 
