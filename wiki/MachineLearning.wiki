@@ -6,3 +6,5 @@ The following machine learning methods are supported in Adastra:
   * LDA+SVM: Linear Discriminant Analysis + Support Vector Machines
   * LDA+RBF: Linear Discriminant Analysis + Radial Basis Function
   * LR: Multiclass class Logistic Regression
+
+First three are .NET implementations using open source libraries and the Logistic Regression is a mix of .NET and [Octave]. 
