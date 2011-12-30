@@ -6,4 +6,4 @@ A brain controlled mechanical suit is not entirely science fiction. The [http://
 
 If EEG signals prove not to be informative enough to create a suit with the needed precision then creating a portable fMRI (still not available) may do the trick. Again software using 'machine learning' methods will be required.
 
-Things like flying and weapons are out of the scope of this web-site :) Anyway let me know if you are making progress on any of them . . .
+Things like flying and weapons are out of the scope of this web-site :) Anyway let me know if you are making progress on any of them . . . :)
