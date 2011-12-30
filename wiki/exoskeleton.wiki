@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-Iron Man suit seems heavy (right?) and probably won't be easy to wear if is not augmented by a system of motors or/and hydraulics. Such system must be controlled with ease. 
+Iron Man suit seems heavy (right?) and probably won't be easy to wear if is not augmented by a system of motors or/and hydraulics. Such system must be controlled in a natural way.
 
 A brain controlled mechanical suit is not entirely science fiction. The [http://en.wikipedia.org/wiki/Motor_cortex motor cortex] is involved in the planning, control, and execution of voluntary motor functions. EEG devices can detect the faint signals coming from the brain and theoretically every single motor command can be distinguished from the general cortex activity by learning each signal distinctive pattern. 
 
