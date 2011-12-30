@@ -3,3 +3,5 @@
 A brain controlled mechanical suit is not entirely science fiction. The [http://en.wikipedia.org/wiki/Motor_cortex motor cortex] is involved in the planning, control, and execution of voluntary motor functions. EEG devices can detect the faint signals coming from the brain and theoretically every single motor command can be distinguished from the general cortex activity by learning each signal distinctive pattern. 
 
 If EEG signals prove not to be informative enough to create a suit with the needed precision then creating a portable fMRI (still not available) may do the trick.
+
+Things like flying and weapons are out of the scope of this web-site :)
