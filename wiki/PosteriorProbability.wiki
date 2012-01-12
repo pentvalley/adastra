@@ -9,5 +9,5 @@ If you control a wheel chair for example with left, right and forward commands t
 Logisitic Regression provides the needed posterior probability we could say by design thanks to the sigmoid function. But other such as SVM do not. You could use the result from the voting during the multi-class classification, but this is definitely suboptimal and discrete. 
 
 There are some papers that discuss this matter:
-  * "Probabilistic Outputs for SVMs and Comparisons to Regularized Likelihood Methods"
+  * "Probabilistic Outputs for SVMs and Comparisons to Regularized Likelihood Methods", Platt
   * "A note on Platt's probabilistic outputs for support vector machines", 2007  
