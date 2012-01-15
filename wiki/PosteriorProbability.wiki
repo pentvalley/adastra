@@ -11,5 +11,4 @@ Logisitic Regression provides the needed posterior probability we could say by d
 There are some papers that discuss this matter:
   * "Probabilistic Outputs for SVMs and Comparisons to Regularized Likelihood Methods", Platt
   * "A note on Platt's probabilistic outputs for support vector machines", 2007  
-  * "Probability Estimates for Multi-class Classification by
-Pairwise Coupling", Ting-Fan Wu, Chih-Jen Lin, Chih-Jen Lin with code here: [http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/#svm_multi_class_probability_outputs http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/#svm_multi_class_probability_outputs]
+  * "Probability Estimates for Multi-class Classification by Pairwise Coupling", Ting-Fan Wu, Chih-Jen Lin, Chih-Jen Lin with code here: [http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/#svm_multi_class_probability_outputs http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/#svm_multi_class_probability_outputs]
