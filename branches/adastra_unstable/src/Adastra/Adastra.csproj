@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{00D2D41C-A88A-48C8-B68A-0359A6AC6F04}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Adastra</RootNamespace>
+    <AssemblyName>Adastra</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Arrowheads">
+      <HintPath>..\..\lib\Arrowheads.dll</HintPath>
+    </Reference>
+    <Reference Include="BasicDSP">
+      <HintPath>..\..\lib\BasicDSP.dll</HintPath>
+    </Reference>
+    <Reference Include="DynamicDataDisplay">
+      <HintPath>..\..\lib\DynamicDataDisplay.dll</HintPath>
+    </Reference>
+    <Reference Include="Eloquera.Client, Version=4.12.0.0, Culture=neutral, PublicKeyToken=170cadcdba67be6c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Eloquera 4.14\Eloquera.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Eloquera.Common, Version=4.12.0.0, Culture=neutral, PublicKeyToken=170cadcdba67be6c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Eloquera 4.14\Eloquera.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Eloquera.Server, Version=4.12.0.0, Culture=neutral, PublicKeyToken=170cadcdba67be6c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <ExecutableExtension>.exe</ExecutableExtension>
+      <HintPath>..\..\lib\Eloquera 4.14\Eloquera.Server.exe</HintPath>
+    </Reference>
+    <Reference Include="encog-core-cs, Version=3.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\encog-core-cs.dll</HintPath>
+    </Reference>
+    <Reference Include="InputSimulator">
+      <HintPath>..\..\lib\InputSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Iridium">
+      <HintPath>..\..\lib\MathNet.Iridium.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="NLog, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Input.Manipulations" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VrpnNet, Version=1.1.1.22900, Culture=neutral, PublicKeyToken=d88711d9dd279d9f, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\VrpnNetOriginal\VrpnNet.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdastraConfig.cs" />
+    <Compile Include="Algorithms\DSP\BasicSignalProcessor.cs" />
+    <Compile Include="Algorithms\DSP\EMDProcessor.cs" />
+    <Compile Include="Algorithms\DSP\FFTSignalProcessor.cs" />
+    <Compile Include="Algorithms\LdaMLP.cs" />
+    <Compile Include="Algorithms\LdaRBF.cs" />
+    <Compile Include="Algorithms\LdaSVM.cs" />
+    <Compile Include="Algorithms\Matrix.cs" />
+    <Compile Include="Algorithms\NNMFMatrix.cs" />
+    <Compile Include="Algorithms\NNTrainDataIterator.cs" />
+    <Compile Include="Algorithms\OctaveLogisticRegression.cs" />
+    <Compile Include="Definitions\AMLearning.cs" />
+    <Compile Include="Definitions\Database.cs" />
+    <Compile Include="Definitions\EEGRecord.cs" />
+    <Compile Include="Definitions\Experiment.cs" />
+    <Compile Include="Definitions\AHypothesis.cs" />
+    <Compile Include="Definitions\IDigitalSignalProcessor.cs" />
+    <Compile Include="Definitions\IFeatureGenerator.cs" />
+    <Compile Include="Definitions\InvalidRecordException.cs" />
+    <Compile Include="Definitions\IRawDataReader.cs" />
+    <Compile Include="Forms\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClassifyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClassifyForm.Designer.cs">
+      <DependentUpon>ClassifyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CursorControlForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CursorControlForm.Designer.cs">
+      <DependentUpon>CursorControlForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ManageRecordedData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ManageRecordedData.Designer.cs">
+      <DependentUpon>ManageRecordedData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OpenVibeClassification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OpenVibeClassification.Designer.cs">
+      <DependentUpon>OpenVibeClassification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OutputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OutputForm.Designer.cs">
+      <DependentUpon>OutputForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TrainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TrainForm.Designer.cs">
+      <DependentUpon>TrainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithms\OctaveMulticlassLogisticRegression.cs" />
+    <Compile Include="Tools\Converters.cs" />
+    <Compile Include="Tools\EmotivFileSystemDataReader.cs" />
+    <Compile Include="Tools\EEGRecordStorage.cs" />
+    <Compile Include="Tools\EmotivRawDataReader.cs" />
+    <Compile Include="Tools\ModelStorage.cs" />
+    <Compile Include="Tools\NMFFeatureGenerator.cs" />
+    <Compile Include="Tools\OctaveController.cs" />
+    <Compile Include="Tools\OpenVibeController.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\OpenVibeFeatureGenerator.cs" />
+    <Compile Include="Tools\OpenVibeRawDataReader.cs" />
+    <Compile Include="Tools\SimpleFeatureGenerator.cs" />
+    <Compile Include="Tools\TaskProgressReporter.cs" />
+    <Compile Include="Algorithms\DSP\TimeEpochingGenerator.cs" />
+    <Compile Include="WPF\ClassifyWindow.xaml.cs">
+      <DependentUpon>ClassifyWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\ExperimentsWindow.xaml.cs">
+      <DependentUpon>ExperimentsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WPF\OutputWindow.xaml.cs">
+      <DependentUpon>OutputWindow.xaml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClassifyForm.resx">
+      <DependentUpon>ClassifyForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CursorControlForm.resx">
+      <DependentUpon>CursorControlForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ManageRecordedData.resx">
+      <DependentUpon>ManageRecordedData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OpenVibeClassification.resx">
+      <DependentUpon>OpenVibeClassification.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OutputForm.resx">
+      <DependentUpon>OutputForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TrainForm.resx">
+      <DependentUpon>TrainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Eloquera.config">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ToDo.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Accord24\Accord.Core\Accord.Core.csproj">
+      <Project>{A177A90C-8207-466A-AF70-F2B8452A42AC}</Project>
+      <Name>Accord.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Accord24\Accord.MachineLearning\Accord.MachineLearning.csproj">
+      <Project>{7AB4BBCC-6222-423D-9FF9-BA9CB7C09199}</Project>
+      <Name>Accord.MachineLearning</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Accord24\Accord.Math\Accord.Math.csproj">
+      <Project>{F718E9A8-DB62-4785-8C49-4333A60D256A}</Project>
+      <Name>Accord.Math</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Accord24\Accord.Statistics\Accord.Statistics.csproj">
+      <Project>{FD8101DD-C95D-42D6-AD44-AE01C25F2811}</Project>
+      <Name>Accord.Statistics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AForge.Neuro\Neuro.csproj">
+      <Project>{02B5E453-2085-4E41-86D9-C8E8A03FB1B9}</Project>
+      <Name>Neuro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Emotiv\DotNetEmotivSDK\DotNetEmotivSDK.csproj">
+      <Project>{D3337309-9682-425E-8EDC-2ECFACF79565}</Project>
+      <Name>DotNetEmotivSDK</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="WPF\ClassifyWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WPF\ExperimentsWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WPF\OutputWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
