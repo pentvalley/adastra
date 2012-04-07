@@ -4,44 +4,35 @@
  * Added new feature generator: chunks in the form of matrix are produced, then covariance matrix is calculated and then the eigen values of the covariance matrix are used for veature vectors.
  * Fixed bug in recordring in Training form.
 
-Adastra 2.5.1 Released 10.03.2012 (dd/mm/yyyy)
-============================================
+===Adastra 2.5.1 Released 10.03.2012===
 
-Several fixes and data checks have been added.
+ * Several fixes and data checks have been added.
+
 Always leave OpenVibe fully load or you may acquire corrupted data.
 
-Adastra 2.4.2 Released 30.11.2011 (dd/mm/yyyy)
-============================================
-Some bug fixes and refinements.
+===Adastra 2.4.2 Released 30.11.2011===
 
-Adastra 2.4 Released 11.11.2011 (dd/mm/yyyy)
-============================================
+ * Some bug fixes and refinements.
 
-- added optimizator UI that allows for evaluation of several machine learning algorithms
-- added Radial Basis Function neural network and training method ResilientPropagation
-- new early stop conditions for neural networks training
+===Adastra 2.4 Released 11.11.2011===
 
-Adastra 2.2 Released 16.09.2011 (dd/mm/yyyy)
-============================================
+ * added optimizator UI that allows for evaluation of several machine learning algorithms
+ * added Radial Basis Function neural network and training method ResilientPropagation
+ * new early stop conditions for neural networks training
 
-- Added WPF EGG signal charting for both OpenVibe and Emotiv
-- "Forms" charting disabled for Emotiv
-- added basic digital signal processing with ButterworthPassBand filter (min=29, max=40 , order 4)
+===Adastra 2.2 Released 16.09.2011===
 
-Adastra 2.1 Released 23.08.2011 (dd/mm/yyyy)
-============================================
+ * Added WPF EGG signal charting for both OpenVibe and Emotiv
+ * "Forms" charting disabled for Emotiv
+ * added basic digital signal processing with ButterworthPassBand filter (min=29, max=40 , order 4)
 
-- Added basic support for native use of Emotiv EPOCH.
-- Added the ability to save your training data
-- Added the ability to fast edit your OpenVibe scenarios
-- Fixed an irritating bug preventing Adastra from starting several application scenarios in a sequence (prevously Adastra restart was required each time)
+===Adastra 2.1 Released 23.08.2011===
 
-Adastra 2.0.1 Released 14.07.2011 (dd/mm/yyyy)
-============================================
+ * Added basic support for native use of Emotiv EPOCH.
+ * Added the ability to save your training data
+ * Added the ability to fast edit your OpenVibe scenarios
+ * Fixed an irritating bug preventing Adastra from starting several application scenarios in a sequence (prevously Adastra restart was required each time)
 
-Fixed problem with long Windows names and OpenVibe. 
+===Adastra 2.0.1 Released 14.07.2011===
 
-Adastra 2.0 Released 11.07.2011 (dd/mm/yyyy)
-============================================
-
-There is one known issue: every application scenario requires a restart of Adastra.  
+ * Fixed problem with long Windows names and OpenVibe.  
