@@ -1,4 +1,4 @@
-=Adastra 2.5.1 Released 07.04.2012 (dd/mm/yyyy)=
+==Adastra 2.5.1 Released 07.04.2012==
 
  * Added time based based epoching.
  * Added new feature generator: chunks in the form of matrix are produced, then covariance matrix is calculated and then the eigen values of the covariance matrix are used for veature vectors.
