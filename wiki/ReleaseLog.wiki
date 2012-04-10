@@ -10,6 +10,10 @@
 
 Always leave OpenVibe fully load or you may acquire corrupted data.
 
+===Adastra 2.5 Released 15.12.2011===
+
+ * Added support for Octave and Logistic Regression
+
 ===Adastra 2.4.2 Released 30.11.2011===
 
  * Some bug fixes and refinements.
