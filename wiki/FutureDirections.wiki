@@ -1,9 +1,10 @@
 ===Short-term plans===
+  * add support for [http://openvibe.inria.fr/documentation/unstable/Doc_Scenario_InsermP300Speller.html P300]
+  * add support for [http://openvibe.inria.fr/documentation/unstable/Doc_Scenario_SSVEP.html SSVEP]
   * add posterior probability [0..1] to all machine learning algorithms - not just +/-
   * add support for [EmotivEPOCH Emotiv EPOC] without using OpenVibe by implementing the same Digital Signal Processing
   * add parallel computing for machine learning algorithms thanks to Microsoft Task Parallel Library or Microsoft [http://research.microsoft.com/en-us/projects/accelerator Accelerator]
   * implement additional machine learning algorithms
-  * add feature vector generation to Adastra (as a replacement for the one provided by OpenVibe)
   * evaluate [http://machine.codeplex.com Machine Learning for .NET]
   * explore the idea of having calculations of the machine learning models (NN, SVM) distributed over the Microsoft Azure cloud
 
