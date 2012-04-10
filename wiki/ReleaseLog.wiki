@@ -32,7 +32,7 @@ Always leave OpenVibe fully load or you may acquire corrupted data.
 
 ===Adastra 2.1 Released 23.08.2011===
 
- * Added basic support for native use of Emotiv EPOCH.
+ * Added basic support for native use of Emotiv EPOC.
  * Added the ability to save your training data
  * Added the ability to fast edit your OpenVibe scenarios
  * Fixed an irritating bug preventing Adastra from starting several application scenarios in a sequence (prevously Adastra restart was required each time)
